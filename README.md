@@ -23,3 +23,5 @@ $ cd RESTful-crud-api-express-mongodb-nodejs
 $ npm install
 $ npm start
 ```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
