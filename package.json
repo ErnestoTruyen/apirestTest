@@ -1,0 +1,23 @@
+{
+  "name": "crud_restful_api",
+  "version": "1.0.0",
+  "description": "This is RESTful api for CRUD Opertaion with mongoDB-express-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Expressjs",
+    "mongoose",
+    "mongoDB"
+  ],
+  "author": "Harsh Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  }
+}
