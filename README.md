@@ -14,6 +14,7 @@ Project is created with:
 * ExpressJS
 * MongoDB
 * Mongoose
+* Config
 	
 ## Setup
 To run this project, install it locally using npm:
