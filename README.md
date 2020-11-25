@@ -22,6 +22,7 @@ To run this project, install it locally using npm:
 ```
 $ cd RESTful-crud-api-express-mongodb-nodejs
 $ npm install
+$ mongod
 $ npm start
 ```
 ## License
